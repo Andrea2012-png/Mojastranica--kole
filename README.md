@@ -29,7 +29,7 @@
 
 <section id="o-skoli">
     <h2>O školi</h2>
-    <p>Moja škola nalazi se u mom gradu i svakodnevno okuplja velik broj učenika. U školi vlada ugodna atmosfera, a učenici imaju priliku učiti, družiti se i razvijati svoje vještine.</p>
+    <p>Moja škola nalazi se u mom gradu i svakodnevno okuplja velik broj učenika. U školi vlada ugodna atmosfera, a učenici imaju priliku učiti, družiti se i razvijati svoje vještine i u mojoj školi će te se jako puno zabavljati.</p>
 </section>
 
 <section id="predmeti">
